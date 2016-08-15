@@ -1,8 +1,63 @@
-- title : FsReveal
-- description : Introduction to FsReveal
-- author : Karlkim Suwanmongkol
-- theme : night
-- transition : default
+- title : Design and Agile Architecture
+- description : Connecting the Dots across the innovation spectrum
+- author : Jon Roberts
+- theme : league
+- transition : slide
+
+***
+
+### Design and Agile Architecture
+
+**Alamo Agilistas**
+
+August 16th, 2016
+
+Jon Roberts
+
+***
+
+### Design and Agile Architecture
+
+Topics
+
+- Introduction
+  - Something is Rotten in the State of Denmark
+    - Software Craftsmanship Movement
+      - Successor to XP
+      - A singular focus on Scrum or other process methods neglects design
+      - Quotes from Agile Manifesto Signatories
+    - Agile is Dead?
+      - Agile Manifesto was/is reactionary
+    - WTF DevOps?
+  - Venn Diagram
+  - The Fourth Concern of Agile Transformation
+
+- Why is Agile Transformation is Slow and Painful
+  - Why?
+    - Because it's difficult
+      - Let's look at TPS
+      - Because we're not in Pain or have Chronic Pain
+    - Agile and Scrum are not designed to scale
+      - examine principles of Agile
+      - We need a third Mode
+      - Agile is not Lean
+      - The Three Attitudes
+    - Conway's Revenge
+      - Legacy Designs are an Impediment
+- Towards <del>a Better Model</del> More and Better Models
+  - Introduction
+  - It's Not Really "Transformation" Anyways
+    - Transformation vs. Transmutation
+
+- *How Can We Do This?*
+
+
+- Games
+- Context of Growth
+- Design relative to maturity
+- Communication Structures and Design
+- Networks and Hierarchies
+- *HOW TO DO THIS?*
 
 ***
 
@@ -83,9 +138,9 @@
 ---
 
 #### Haskell
- 
+
     [lang=haskell]
-    recur_count k = 1 : 1 : 
+    recur_count k = 1 : 1 :
         zipWith recurAdd (recur_count k) (tail (recur_count k))
             where recurAdd x y = k * x + y
 
@@ -119,9 +174,9 @@
 
     nuget Castle.Windsor-log4net >= 3.2
     nuget NUnit
-    
+
     github forki/FsUnit FsUnit.fs
-      
+
 ---
 
 ### C/AL
@@ -150,15 +205,14 @@ $ \Pr(A|B)=\frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A)+\Pr(B|\neg A)\Pr(\neg A)} $
 
 ***
 
-### The Reality of a Developer's Life 
+### The Reality of a Developer's Life
 
 **When I show my boss that I've fixed a bug:**
-  
-![When I show my boss that I've fixed a bug](http://www.topito.com/wp-content/uploads/2013/01/code-07.gif)
-  
-**When your regular expression returns what you expect:**
-  
-![When your regular expression returns what you expect](http://www.topito.com/wp-content/uploads/2013/01/code-03.gif)
-  
-*from [The Reality of a Developer's Life - in GIFs, Of Course](http://server.dzone.com/articles/reality-developers-life-gifs)*
 
+![When I show my boss that I've fixed a bug](http://www.topito.com/wp-content/uploads/2013/01/code-07.gif)
+
+**When your regular expression returns what you expect:**
+
+![When your regular expression returns what you expect](http://www.topito.com/wp-content/uploads/2013/01/code-03.gif)
+
+*from [The Reality of a Developer's Life - in GIFs, Of Course](http://server.dzone.com/articles/reality-developers-life-gifs)*
