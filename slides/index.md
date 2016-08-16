@@ -32,18 +32,29 @@ Topics
   - Venn Diagram
   - The Fourth Concern of Agile Transformation
 
-- Why is Agile Transformation is Slow and Painful
+- Types of Scaling
+  - Scale up by features and functionality - more code and more developers
+  - Scale up by Instances
+    - same code running in more places
+    - orthogonal data
+  - Scale up by larger Instances
+    - linked data, large graphs
+
+- Agile Transformation is Slow and Painful
   - Why?
     - Because it's difficult
       - Let's look at TPS
-      - Because we're not in Pain or have Chronic Pain
+      - Pain vs Chronic Pain
     - Agile and Scrum are not designed to scale
       - examine principles of Agile
       - We need a third Mode
       - Agile is not Lean
       - The Three Attitudes
     - Conway's Revenge
+      - 
       - Legacy Designs are an Impediment
+      - Is the RDBMS an Impediment?
+      -
 - Towards <del>a Better Model</del> More and Better Models
   - Introduction
   - It's Not Really "Transformation" Anyways
