@@ -6,7 +6,7 @@
 
 ***
 
-### Design and Agile Architecture
+## Design and Agile Architecture
 
 **Alamo Agilistas**
 
@@ -16,9 +16,90 @@ Jon Roberts
 
 ***
 
-### Design and Agile Architecture
+## Design and Agile Architecture
+### Topics
 
-Topics
+- Can We Scale Agile?
+- What Model Makes Sense?
+- When, Why and How to Redesign?
+
+***
+
+## Can We Scale Agile?
+
+---
+
+##  Useful concepts for scaling
+### coordination and communication:
+
+  <p class="fragment roll-n">mature processes and tools</p>
+  <p class="fragment roll-n">comprehensive documentation</p>
+  <p class="fragment roll-n">good contract negotiation</p>
+  <p class="fragment roll-n">following a coordinated plan</p>
+
+---
+
+# Agile Values
+
+| Individuals and Interactions      	|      	|                             	|
+|-----------------------------------	|------	|-----------------------------	|
+|                                   	| Over 	|                             	|
+|                                   	|      	| Process and Tools           	|
+| Working Software                  	|      	|                             	|
+|                                   	| Over 	|                             	|
+|                                   	|      	| Comprehensive Documentation 	|
+| Customer Collaboration            	|      	|                             	|
+|                                   	| Over 	|                             	|
+|                                   	|      	| Contract Negotiation        	|
+| Responding To Change              	|      	|                             	|
+|                                   	| Over 	|                             	|
+|                                   	|      	| Following a Plan            	|
+---
+
+## Agile Values:
+<p class="fragment roll-n">Individuals and interactions</p>
+<p class="fragment roll-n">&nbsp;&nbsp;&nbsp;Over processes and tools</p>
+- Working software
+  - Over comprehensive documentation
+- Customer collaboration
+  - Over contract negotiation
+- Responding to change
+  - Over following a coordinated plan
+
+'  <p class="fragment roll-n">Individuals and interactions</p>
+'  <p class="fragment roll-n">&nbsp;&nbsp;&nbsp;Over mature processes and tools</p>
+'  <p class="fragment roll-n">Working software</p>
+'  <p class="fragment roll-n"> Over comprehensive documentation</p>
+'  <p class="fragment roll-n">Customer collaboration</p>
+'  <p class="fragment roll-n">  Over contract negotiation</p>
+'  <p class="fragment roll-n">Responding to change</p>
+'  <p class="fragment roll-n">  Over following a coordinated plan</p>
+'</section>
+
+***
+- data-background : images/wat.gif
+
+# WAT?
+
+***
+
+- Agile Transformation is Slow and Painful
+  - Why?
+    - Because it's difficult
+      - Let's look at TPS
+      - Pain vs Chronic Pain
+    - Agile and Scrum are not designed to scale
+      - examine principles of Agile
+      - We need a third Mode
+      - Agile is not Lean
+      - The Three Attitudes
+    - Conway's Revenge
+      -
+      - Legacy Designs are an Impediment
+      - Is the RDBMS an Impediment?
+      -
+
+***
 
 - Introduction
   - Something is Rotten in the State of Denmark
@@ -32,6 +113,9 @@ Topics
   - Venn Diagram
   - The Fourth Concern of Agile Transformation
 
+
+
+
 - Types of Scaling
   - Scale up by features and functionality - more code and more developers
   - Scale up by Instances
@@ -39,22 +123,6 @@ Topics
     - orthogonal data
   - Scale up by larger Instances
     - linked data, large graphs
-
-- Agile Transformation is Slow and Painful
-  - Why?
-    - Because it's difficult
-      - Let's look at TPS
-      - Pain vs Chronic Pain
-    - Agile and Scrum are not designed to scale
-      - examine principles of Agile
-      - We need a third Mode
-      - Agile is not Lean
-      - The Three Attitudes
-    - Conway's Revenge
-      - 
-      - Legacy Designs are an Impediment
-      - Is the RDBMS an Impediment?
-      -
 - Towards <del>a Better Model</del> More and Better Models
   - Introduction
   - It's Not Really "Transformation" Anyways
