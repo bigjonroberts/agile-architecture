@@ -1,7 +1,7 @@
 - title : Design and Agile Architecture
 - description : Connecting the Dots across the innovation spectrum
 - author : Jon Roberts
-- theme : league
+- theme : sky
 - transition : slide
 
 ***
@@ -41,47 +41,61 @@ Jon Roberts
 
 # Agile Values
 
-| Individuals and Interactions      	|      	|                             	|
-|-----------------------------------	|------	|-----------------------------	|
-|                                   	| Over 	|                             	|
-|                                   	|      	| Process and Tools           	|
-| Working Software                  	|      	|                             	|
-|                                   	| Over 	|                             	|
-|                                   	|      	| Comprehensive Documentation 	|
-| Customer Collaboration            	|      	|                             	|
-|                                   	| Over 	|                             	|
-|                                   	|      	| Contract Negotiation        	|
-| Responding To Change              	|      	|                             	|
-|                                   	| Over 	|                             	|
-|                                   	|      	| Following a Plan            	|
----
-
-## Agile Values:
-<p class="fragment roll-n">Individuals and interactions</p>
-<p class="fragment roll-n">&nbsp;&nbsp;&nbsp;Over processes and tools</p>
-- Working software
-  - Over comprehensive documentation
-- Customer collaboration
-  - Over contract negotiation
-- Responding to change
-  - Over following a coordinated plan
-
-'  <p class="fragment roll-n">Individuals and interactions</p>
-'  <p class="fragment roll-n">&nbsp;&nbsp;&nbsp;Over mature processes and tools</p>
-'  <p class="fragment roll-n">Working software</p>
-'  <p class="fragment roll-n"> Over comprehensive documentation</p>
-'  <p class="fragment roll-n">Customer collaboration</p>
-'  <p class="fragment roll-n">  Over contract negotiation</p>
-'  <p class="fragment roll-n">Responding to change</p>
-'  <p class="fragment roll-n">  Over following a coordinated plan</p>
-'</section>
+| Individuals and Interactions      	| *Over* | Process and Tools            |
+|-----------------------------------	|------- |-----------------------------	|
+| Working Software                  	| *Over* | Comprehensive Documentation	|
+| Customer Collaboration            	| *Over* | Contract Negotiation        	|
+| Responding To Change              	| *Over* | Following a Plan            	|
 
 ***
 - data-background : images/wat.gif
 
 # WAT?
 
+---
+- data-background : images/bimodal.jpeg
+
+## Is Gartner's BiModal IT Strategy Achievable?
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+## Is it Advisable?
+
+---
+
+### Tri-modal may be a better model
+
 ***
+
+## Introducing
+# Wardley Maps
+### A strategic way to visualize tech stacks
+
+---
+
+### Who is Simon Wardley?
+
+- Tech Executive at Early PAAS Pioneer
+- Executive at Canonical while growing OpenStack Cloud Business in late 2000s
+- Keynote Speaker at OSCon
+- Wardley Map Introduction: http://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html
+
+---
+
+![sample wardley map](images/wardleymap1.png)
+
+---
+
+![sample wardley map](images/wardleymap2.png)
+
+---
+
+![sample wardley map](images/wardleymap3.png)
+
+---
+
+
+
 
 - Agile Transformation is Slow and Painful
   - Why?
