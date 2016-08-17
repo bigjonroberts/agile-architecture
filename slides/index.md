@@ -25,6 +25,30 @@ Jon Roberts
 
 ***
 
+### Levers of Transformation
+
+![Culture Language and Systems](images/transformation_levers_3a.png)
+
+---
+
+### Levers of Transformation
+
+![Culture Language and Systems](images/transformation_levers_3b.png)
+
+---
+
+### Levers of Transformation
+
+![Culture Language, Systems, and ?????](images/transformation_levers_4a.png)
+
+---
+
+### Levers of Transformation
+
+![Culture Language, Systems, and Design](images/transformation_levers_4b.png)
+
+***
+
 ## Can We Scale Agile?
 
 ---
@@ -92,7 +116,17 @@ Jon Roberts
 
 ![sample wardley map](images/wardleymap3.png)
 
----
+***
+
+## When to Re-architect?
+### At the "Seams"
+
+***
+
+## Sacrificial Architecture
+[Sacrificial Architecture](images/sacrifice.png)
+
+***
 
 
 
